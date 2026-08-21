@@ -1,0 +1,10 @@
+[package]
+name = "egm"
+version = "0.1.0"
+edition = "2024"
+description = "Rust implementation of the Earth Gravitational Models (EGM)"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/jbangelo/egm-rs"
+
+[dependencies]
